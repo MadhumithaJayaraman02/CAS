@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="6" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T12:15:33 IST" name="Suite" finished-at="2024-04-02T13:23:37 IST" duration-ms="4084017">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T12:15:33 IST" name="chrome-Test" finished-at="2024-04-02T13:23:37 IST" duration-ms="4084017">
+      <class name="testCases.TC_001_AroundCognizant">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AroundCognizant@7ae0a9ec]" started-at="2024-04-02T12:15:34 IST" name="setup" finished-at="2024-04-02T12:15:45 IST" duration-ms="10977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testUser()[pri:1, instance:testCases.TC_001_AroundCognizant@7ae0a9ec]" started-at="2024-04-02T12:15:45 IST" name="testUser" finished-at="2024-04-02T12:16:09 IST" duration-ms="24361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUser -->
+        <test-method signature="checkNewsToolTip()[pri:2, instance:testCases.TC_001_AroundCognizant@7ae0a9ec]" started-at="2024-04-02T12:16:09 IST" name="checkNewsToolTip" finished-at="2024-04-02T12:16:25 IST" duration-ms="16135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewsToolTip -->
+        <test-method signature="checkAllNews()[pri:3, instance:testCases.TC_001_AroundCognizant@7ae0a9ec]" started-at="2024-04-02T12:16:26 IST" name="checkAllNews" finished-at="2024-04-02T12:16:37 IST" duration-ms="11529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAllNews -->
+        <test-method signature="lastTest()[pri:4, instance:testCases.TC_001_AroundCognizant@7ae0a9ec]" started-at="2024-04-02T12:16:37 IST" name="lastTest" finished-at="2024-04-02T12:18:30 IST" duration-ms="112769" status="FAIL">
+          <exception class="java.io.FileNotFoundException">
+            <message>
+              <![CDATA[C:\Users\2318412\eclipse-workspace\CAS\TestData\NewsAround_Cognizant.xlsx (The process cannot access the file because it is being used by another process)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.io.FileNotFoundException: C:\Users\2318412\eclipse-workspace\CAS\TestData\NewsAround_Cognizant.xlsx (The process cannot access the file because it is being used by another process)
+at java.base/java.io.FileOutputStream.open0(Native Method)
+at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+at utilities.ExcelUtility.excelUtility(ExcelUtility.java:19)
+at utilities.ExcelUtility.output(ExcelUtility.java:25)
+at testCases.TC_001_AroundCognizant.lastTest(TC_001_AroundCognizant.java:236)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.io.FileNotFoundException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC_001_AroundCognizant@7ae0a9ec]" started-at="2024-04-02T12:18:30 IST" name="close" finished-at="2024-04-02T13:23:37 IST" duration-ms="3907296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC_001_AroundCognizant -->
+    </test> <!-- chrome-Test -->
+    <test started-at="2024-04-02T12:15:33 IST" name="edge-Test" finished-at="2024-04-02T13:23:37 IST" duration-ms="4083305">
+      <class name="testCases.TC_001_AroundCognizant">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AroundCognizant@606e4010]" started-at="2024-04-02T12:15:34 IST" name="setup" finished-at="2024-04-02T12:15:43 IST" duration-ms="9768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testUser()[pri:1, instance:testCases.TC_001_AroundCognizant@606e4010]" started-at="2024-04-02T12:15:43 IST" name="testUser" finished-at="2024-04-02T12:16:08 IST" duration-ms="24375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUser -->
+        <test-method signature="checkNewsToolTip()[pri:2, instance:testCases.TC_001_AroundCognizant@606e4010]" started-at="2024-04-02T12:16:08 IST" name="checkNewsToolTip" finished-at="2024-04-02T12:16:24 IST" duration-ms="15907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNewsToolTip -->
+        <test-method signature="checkAllNews()[pri:3, instance:testCases.TC_001_AroundCognizant@606e4010]" started-at="2024-04-02T12:16:24 IST" name="checkAllNews" finished-at="2024-04-02T12:16:37 IST" duration-ms="12498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAllNews -->
+        <test-method signature="lastTest()[pri:4, instance:testCases.TC_001_AroundCognizant@606e4010]" started-at="2024-04-02T12:16:37 IST" name="lastTest" finished-at="2024-04-02T12:18:29 IST" duration-ms="112032" status="FAIL">
+          <exception class="java.io.FileNotFoundException">
+            <message>
+              <![CDATA[C:\Users\2318412\eclipse-workspace\CAS\TestData\NewsAround_Cognizant.xlsx (The process cannot access the file because it is being used by another process)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.io.FileNotFoundException: C:\Users\2318412\eclipse-workspace\CAS\TestData\NewsAround_Cognizant.xlsx (The process cannot access the file because it is being used by another process)
+at java.base/java.io.FileOutputStream.open0(Native Method)
+at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+at utilities.ExcelUtility.excelUtility(ExcelUtility.java:19)
+at utilities.ExcelUtility.output(ExcelUtility.java:25)
+at testCases.TC_001_AroundCognizant.lastTest(TC_001_AroundCognizant.java:236)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:840)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.io.FileNotFoundException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.TC_001_AroundCognizant@606e4010]" started-at="2024-04-02T12:18:29 IST" name="close" finished-at="2024-04-02T13:23:37 IST" duration-ms="3907699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.TC_001_AroundCognizant -->
+    </test> <!-- edge-Test -->
+  </suite> <!-- Suite -->
+</testng-results>

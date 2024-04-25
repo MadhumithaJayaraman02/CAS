@@ -1,0 +1,46 @@
+12:15:57.155 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***getting user name***
+12:15:58.371 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***getting user name***
+12:16:03.226 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***getting user mail***
+12:16:03.304 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***validating user mail and username***
+12:16:04.442 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***getting user mail***
+12:16:04.496 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***validating user mail and username***
+12:16:08.350 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Test case 1 is ended***
+12:16:08.637 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - **Test case 2 is started***
+12:16:09.331 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - **validating around cognizant section***
+12:16:09.533 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Test case 1 is ended***
+12:16:09.773 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - **Test case 2 is started***
+12:16:10.721 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - **validating around cognizant section***
+12:16:19.369 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - **printing all the news available in the news around cognizant section***
+12:16:19.522 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - **validating header and tool tip of news around cognizant section***
+12:16:20.751 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - **printing all the news available in the news around cognizant section***
+12:16:20.892 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - **validating header and tool tip of news around cognizant section***
+12:16:24.531 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - **test case 2 ended***
+12:16:24.676 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - *** test case 3 is started
+12:16:25.907 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - **test case 2 ended***
+12:16:26.031 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - *** test case 3 is started
+12:16:31.853 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***printing all the news headers from news section***
+12:16:32.164 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***validating header of news section and tool tip of the every news***
+12:16:32.339 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***printing all the news headers from news section***
+12:16:32.551 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***validating header of news section and tool tip of the every news***
+12:16:37.166 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - *** test case 3 is ended
+12:16:37.299 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Test case 4 is started***
+12:16:37.560 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - *** test case 3 is ended
+12:16:37.686 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Test case 4 is started***
+12:16:40.329 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+12:16:40.400 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+12:16:40.419 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+12:16:40.731 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+12:16:40.807 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+12:16:40.832 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+12:16:48.193 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+12:16:49.169 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+12:16:57.345 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+12:16:57.390 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+12:16:57.407 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+12:16:58.341 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+12:16:58.467 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+12:16:58.508 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+12:17:12.491 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+12:17:14.156 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+12:17:21.631 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+12:17:21.840 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***

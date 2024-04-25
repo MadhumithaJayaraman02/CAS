@@ -1,0 +1,48 @@
+22:38:00.492 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***validating header of news section and tool tip of the every news***
+22:38:00.609 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***printing all the news headers from news section***
+22:38:00.835 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***validating header of news section and tool tip of the every news***
+22:38:05.524 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - *** test case 3 is ended
+22:38:05.682 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Test case 4 is started***
+22:38:05.836 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - *** test case 3 is ended
+22:38:06.060 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Test case 4 is started***
+22:38:08.733 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:38:08.839 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:38:08.858 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:38:09.116 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:38:09.173 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:38:09.188 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:38:21.822 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:38:23.148 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:38:30.973 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:38:31.070 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:38:31.087 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:38:32.369 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:38:32.524 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:38:32.634 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:38:38.791 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:38:40.383 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:38:48.001 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:38:48.121 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:38:48.131 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:38:49.608 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:38:49.702 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:38:49.723 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:38:55.477 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:39:04.727 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:39:04.792 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:39:04.816 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:39:10.465 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:39:11.715 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:39:19.667 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:39:19.769 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:39:19.780 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:39:20.879 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:39:20.982 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:39:21.012 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:39:26.400 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:39:27.598 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
+22:39:35.579 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***opening a new tab***
+22:39:35.722 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***switching to new tab***
+22:39:35.749 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***navigating to new URL***
+22:39:38.724 [TestNG-tests-2] INFO  testCases.TC_001_AroundCognizant - ***Testcase 4 is ended***
+22:39:42.468 [TestNG-tests-1] INFO  testCases.TC_001_AroundCognizant - ***Printing the description of the top five news ***
